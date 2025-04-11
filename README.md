@@ -1,1 +1,2 @@
-# Horror-Game-Unity
+# Horror-Game-Unity 
+In FPS mode
